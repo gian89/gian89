@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 <a href="https://google.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gian89&repo=NodeJwtAndToDoServer" />
 </a>
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gian89&repo=NodeJwtAndToDoServer" />
 </a>
@@ -60,4 +63,9 @@ Here are some ideas to get you started:
   <a href="https://it.reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40"/> 
 </p>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gian89)](https://git.io/streak-stats)
+  
+![](https://komarev.com/ghpvc/?username=gian89&color=green)
+
 
